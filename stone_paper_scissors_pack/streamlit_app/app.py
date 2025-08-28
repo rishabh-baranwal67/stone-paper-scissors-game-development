@@ -5,7 +5,7 @@
 import random
 import streamlit as st
 
-st.set_page_config(page_title="Stone • Paper • Scissor", page_icon="🎮")
+st.set_page_config(page_title="Stone • Paper • Scissor designed by Rishabh Baranwal", page_icon="🎮")
 
 CHOICES = ["stone", "paper", "scissor"]
 EMOJI = {"stone": "🪨", "paper": "📄", "scissor": "✂️"}
